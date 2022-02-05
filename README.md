@@ -1,4 +1,4 @@
-### Example ETL that loads data from S3 into Redshift using Apache Airflow
+### An Airflow ETL job that loads data from S3 into Redshift, creates tables, and performs a data quality check.
 
 ## Libraries
 * datetime
